@@ -24,10 +24,10 @@ To ensure the login process works smoothly, you **MUST** follow these two steps 
 ## 🛠️ Build from Source
 
 If you prefer to build the APK yourself, you can clone this repository and build it using Gradle.
-
+"
 ```bash
 git clone https://github.com/summerlovewarum/x-client.git
-
+"
 
 Windows: Run build-release.bat or gradlew.bat assembleRelease
 Linux/macOS: Run ./gradlew assembleRelease
@@ -49,9 +49,10 @@ This is an unofficial client. It is not affiliated with, endorsed, or sponsored 
 打开应用，正常登录即可！
 🛠️ 源码编译
 如果你想自行编译源码，请克隆本仓库并使用 Gradle 构建：
-code
+" 
 Bash
 git clone https://github.com/summerlovewarum/x-client.git
+"
 Windows 环境: 双击运行 build-release.bat 或在终端执行 gradlew.bat assembleRelease
 Linux/macOS 环境: 在终端执行 ./gradlew assembleRelease
 ⚠️ 免责声明
