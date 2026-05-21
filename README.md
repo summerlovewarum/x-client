@@ -44,7 +44,7 @@ This is an unofficial client. It is not affiliated with, endorsed, or sponsored 
 卸载你手机上的 X (Twitter) 官方 App。
 确保手机中已安装 Google Chrome 浏览器。
 访问 .\app 文件夹。
-下载最新的 .apk 安装包。
+下载最新的 .apk 安装包进行安装试用。
 在手机上安装该 APK（如有提示，请允许“安装未知来源应用”）。
 打开应用，正常登录即可！
 🛠️ 源码编译
