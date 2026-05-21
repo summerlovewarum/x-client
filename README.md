@@ -15,7 +15,7 @@ To ensure the login process works smoothly, you **MUST** follow these two steps 
 
 1. **Uninstall** the official X app from your device.
 2. Ensure **Google Chrome** is installed and updated.
-3. Go to the .\app\build\outputs\apk\debug folder.
+3. Go to the .\app folder.
 4. Download the latest `.apk` file for trial.
 5. Install the APK on your Android device (you may need to enable "Install from unknown sources" in your settings).
 6. Open the app and log in!
@@ -43,7 +43,7 @@ This is an unofficial client. It is not affiliated with, endorsed, or sponsored 
 📦 安装指南
 卸载你手机上的 X (Twitter) 官方 App。
 确保手机中已安装 Google Chrome 浏览器。
-访问 .\app\build\outputs\apk\debug 文件夹。
+访问 .\app 文件夹。
 下载最新的 .apk 安装包。
 在手机上安装该 APK（如有提示，请允许“安装未知来源应用”）。
 打开应用，正常登录即可！
