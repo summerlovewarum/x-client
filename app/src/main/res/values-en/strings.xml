@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">X Web</string>
+    <string name="start_url">https://x.com/</string>
+    <string name="action_open_home">Open Home</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_open_external">Open in Browser</string>
+    <string name="action_open_messages">Open Messages</string>
+    <string name="action_login_in_browser">Login / Sign up with Chrome</string>
+    <string name="action_create_dm_shortcut">Create Messages Shortcut</string>
+    <string name="action_save_account">Save Account</string>
+    <string name="action_switch_account">Switch Account</string>
+    <string name="action_delete_account">Delete Account</string>
+    <string name="action_language">Language</string>
+    <string name="action_language_chinese">中文</string>
+    <string name="action_language_english">English</string>
+    <string name="error_no_network">Unable to load page. Please check your network.</string>
+    <string name="shortcut_dm_short_label">X Messages</string>
+    <string name="shortcut_dm_long_label">Open X Messages</string>
+    <string name="shortcut_account_short_prefix">Switch</string>
+    <string name="shortcut_account_long_prefix">Switch Account</string>
+    <string name="toast_shortcut_created">Shortcut creation requested</string>
+    <string name="toast_shortcut_not_supported">Home screen shortcuts not supported</string>
+    <string name="toast_account_saved">Account saved</string>
+    <string name="toast_account_switched">Account switched</string>
+    <string name="toast_account_deleted">Account deleted</string>
+    <string name="toast_no_account">No saved accounts</string>
+    <string name="toast_auth_opened_in_browser">Authentication page opened in browser. Please complete login/signup there.</string>
+    <string name="browser_mode_hint">For stable authentication, login and content access are handled in browser sessions.</string>
+    <string name="dialog_account_name_title">Save Account</string>
+    <string name="dialog_account_name_hint">Enter account name</string>
+    <string name="dialog_positive_save">Save</string>
+    <string name="dialog_positive_switch">Switch</string>
+    <string name="dialog_positive_delete">Delete</string>
+    <string name="dialog_negative_cancel">Cancel</string>
+    <string name="dialog_language_title">Select Language</string>
+</resources>

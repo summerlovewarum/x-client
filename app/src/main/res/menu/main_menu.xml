@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_open_home"
+        android:title="@string/action_open_home"
+        app:showAsAction="never" />
+     <item
+        android:id="@+id/action_open_messages"
+        android:title="@string/action_open_messages"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_login_in_browser"
+        android:title="@string/action_login_in_browser"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_create_dm_shortcut"
+        android:title="@string/action_create_dm_shortcut"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_language"
+        android:title="@string/action_language"
+        app:showAsAction="never" />
+</menu>
